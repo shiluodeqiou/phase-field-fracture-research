@@ -1,0 +1,93 @@
+--- 从头开始 ---\n\n--- 精读 ---\nn class="mord mtight">1      ​               上？如果没有这个约束，会违反什么物理假设？ 
+ 
+ 11. 记录与下一步 
+ 本次精读的逐段笔记、符号表和 8 条问题已经写入阅读记录，文档里用的是纯文本符号： 
+ [相场文献阅读进展与问题记录.docx](E:\909 研究\相场文献和程序\参考文献\相场文献阅读进展与问题记录.docx) 
+ 下一次从  §2.1 的公式 (1)–(3)  开始：先看       F  (  u  ,  v  )   F(u,v)    <span class=katex-\nan>     )      d  x  .     
+ 这里先不推导，下一次精读再逐项解释。现在只需要知道： 
+ 
+ p]:my-0 [&amp;>p]:inline" data-streamdown=list-item>      c   c    <span class=katex\nn class="mord mtight">1      ​               上？如果没有这个约束，会违反什么物理假设？ 
+ 
+ 11. 记录与下一步 
+ 本次精读的逐段笔记、符号表和 8 条问题已经写入阅读记录： 
+ [相场文献阅读进展与问题记录.docx](E:\909 研究\相场文献和程序\参考文献\相场文献阅读进展与问题记录.docx) 
+ 下一次从  §2.1 的公式 (1)–(3)  开始：先看       F  (  u  ,  v  )   F(u,v)    <span class=katex-html aria-hi\next-foreground">  喔，没事了。从2 Numerical implementation of the model
+开始继续精读论文       已工作 3 分\n穿透。 
+ p]:my-0 [&amp;>p]:inline" data-streamdown=list-item> 下一步阅读 ：第 3 节的三个算例，重点核对 3.1 的临界位移和能量曲线。 
+ p]:my-0 [&amp;>p]:inline" data-streamdown=list-item> 学习方式备注 ：明确记录第 2 节目前是“能讲清思想，但还不能独立推导”，没有把它记为“已掌握”。 
+ 
+ 文档里也把第一篇的状态更新为“精读中：第 2 节（概念已通，推导待补）”。关于       Γ  ⊃   Γ  i    \Gamma\supset\Gamma_i         Γ <span class=mspace \n--- 继续 ---\n text-foreground">  喔，没事了。从2 Numerical implementation of the model
+开始继续精读论文       已工作 3\n           ≥        ε    ，继续；否则停止。 
+ 
+ 两个子问题分别是： 
+ 
+ p]:my-0 [&amp;>p]:inline" data-streamdown=list-item>       u   u <\ns=vlist-r>           =        0    ，这一步继续强制        v  T   =  0   v_T=0          v  <span class="vlis\nibold" data-streamdown=heading-2>10. 三个检查问题 
+ 下次进入第 3 节之前，先试着回答： 
+ 
+ p]:my-0 [&amp;>p]:inline" data-streamdown=list-item>为什么弱形式要用 SBV，而不能继续用        W   1  ,  2     W^{1,2}          W  <span class\ne-flex max-w-full items-center gap-2 rounded-xl bg-primary px-4 py-2 text-ui-base font-medium text-primary-foreground shadow-sm transition-colors hover:bg-primary/80 focus-visible:ring-2 focus-visible:ring-input-border-focused sm:gap-3 sm:px-5 sm:py-2.5" href="zcode://share/import?code=UoZD9-2aQNHzSUUN4m3wioz9oEzdBUsS"> 去 ZCode 继续             
+ 
+   :root,#mount[data-theme="light"],#mount:not([data-theme="da\n--- 停在 ---\nght"> c     ​               防止刚度奇异。 
+ p]:my-0 [&amp;>p]:inline" data-streamdown=list-item>交替最小化是局部下降，没有收敛证明；能量单调下降，但可能停在局部极小。 
+ p]:my-0 [&amp;>p]:inline" data-streamdown=list-item>自适应网格法把网格本身当作第二场；它更快，但能量估计和稳定性不如 AT 方法。 
+ 
+ 10. 三个检查问题 
+ 下次进入第 3 节之前，先试着回答： 
+ 
+ p]:my-0 [&amp;>p]:inline" data-streamdown\nul class="my-3 list-outside list-disc space-y-1.5 pl-5 marker:text-foreground-subtlest [&amp;_ul]:my-1.5 [&amp;_ol]:my-1.5" data-markdown-list=unordered data-streamdown=unordered-list>
+ p]:my-0 [&amp;>p]:inline" data-streamdown=list-item>没有收敛证明； 
+ p]:my-0 [&amp;>p]:inline" data-streamdown=list-item>可能停在局部极小； 
+ p]:my-0 [&amp;>p]:inline" data-streamdown=list-item>初始       v  =  1   v=1         v <span class=mspa\n--- 第2.1 ---\n\n--- 第 2.1 ---\n\n--- 公式 ---\ncation/x-tex>\ell         ℓ     当成材料参数，是另一个概念层次，读的时候要区分清楚。 
+ 9. 一张图记住全文 
+ 下面这张图把第 4–8 节的主线串起来，公式已经按数学排版： 
+ ::visualize{"path":"D:/APP/ZcodeData/.zcode/v2/visualizations/dfc1539c5d65d656cd73d49548d0758639c663a9e451a7e5859eddf217d03334/bfm-2000-flow.html"} 
+ 如果只能记住一句话： 这篇文章把“未知裂纹集合的能量最小化”换成了“可计算的场/网格的交替最小化”。  
+ 10. 先自己回答三个问题 
+ 下次进入第 2 节之前，先试着用自己的话回答： 
+<ol class="my-3 list-inside list-decimal space-y-1.5 pl-0 marker:text-foreground-subtlest [&amp;_ul]:my-1.5 [&amp;_ol\n:0.2083em>           上？如果没有这个约束，会违反什么物理假设？ 
+ 
+ 11. 记录与下一步 
+ 本次精读的逐段笔记、符号表和 8 条问题已经写入阅读记录： 
+ [相场文献阅读进展与问题记录.docx](E:\909 研究\相场文献和程序\参考文献\相场文献阅读进展与问题记录.docx) 
+ 下一次从  §2.1 的公式 (1)–(3)  开始：先看       F  (  u  ,  v  )   F(u,v)        <span class="mord mathnormal" style=margin-right:0.\nn class=mrel>=        10    。这是不是说明算例不在严格的渐近层级内？实际使用时应该怎么理解这个条件？ 
+ 11. 记录与下一步 
+ 本次第 2 节的笔记已经追加到阅读记录，包括关键公式、交替最小化算法、符号对照表，以及 8 条新问题： 
+ [相场文献阅读进展与问题记录.docx](E:\909 研究\相场文献和程序\参考文献\相场文献阅读进展与问题记录.docx) 
+ 下一次进入第 3 节，先读  3.1 加固体的撕裂 ： 
+ 
+ p]:my-0 [&amp;>p]:inline" data-streamdown=list-item>解析预测的临界位移   <math xmlns=http:\nText class=group/assistant-row>  *:first-child]:mt-0 [&amp;>*:last-child]:mb-0"> 完全看不懂很正常。第 2 节把三件事混在一起写：泛函分析（SBV、Γ 收敛）、数值方法（有限元、交替最小化）、力学（能量、裂纹）。原文是给同行看的，密度很高，第一遍被符号淹掉是常态。 
+ 我们先把公式放一边，只讲思想。 
+ 一句话总结 
+ 第 2 节只做一件事： 
+ 
+ 裂纹是一条未知的“撕口”，标准有限元没法直接表示它；作者把这条撕口“模糊”成一条有宽度的带，用两个场交替求解，再让带宽趋于 0，证明模糊问题收敛到原来的尖锐裂纹问题。 
+ 
+ 一个比喻：橡皮膜上的撕口 
+ 想象一块橡皮膜，上面画了网格。 
+<ul class="my-3 list-outside\nan> 时带变成裂纹。 
+ 
+ p]:my-0 [&amp;>p]:inline" data-streamdown=list-item>
+ 交替最小化在做什么？
+——固定健康度解位移，固定位移解健康度，轮流降低能量；它是局部下降，不保证全局最优。 
+ 
+ p]:my-0 [&amp;>p]:inline" data-streamdown=list-item>
+ 为什么需要 Γ 收敛？
+——保证模糊问题的极限就是原来的尖锐裂纹问题，而不只是一个“看起来像裂纹”的损伤模型。 
+ 
+ 
+ 如果这四个问题能用自己的话讲出来，第 2 节的思想就算抓住了。公式可以慢慢再抠。下一次我们进入第 3 节 3.1，看一个具体的撕裂算例：临界位移、能量曲线和表面能。          *+*:not([data-slot='collapsible-content'])]:mt-5"><div class="fle\n--- Bourdin ---\n    技能   archify  画一张中文流程图，总结 Bourdin–Francfort–Marigo (2000) 论文“Numerical experiments in revisited brittle fracture”的逻辑主线：未知裂纹集合 Γ → 总能量 E(Γ,t)=E_s+E_e → 演化律 (a)(b)(c) → 时间离散 Γ_i ⊃ Γ_{i-1} → 两条数值路线（椭圆正则化 u+v；自适应网格 u+T）→ 三个算例（撕裂、纤维增强基体、裂纹分叉）。要求：纵向主流程、在“不能直接枚举 Γ”处分叉、标注两条路线都基于 Γ 收敛、适合在对话框里直接查看。  <svg xmlns=http://www.w3.org/2000/svg width=24 height=24 viewBox="0 0 24 24" fill=none stroke=currentColor stroke-width=2 stroke-linecap=round stroke-linejoin=round class="lucide lucide-chevron-right size-4 text-foreground-subtlest\nspan> 技能   visualize  在对话框内嵌展示一张中文流程图（非交互），主题是 Bourdin–Francfort–Marigo 2000 论文的数值实现主线。需要浅色/深色主题都可读、自包含 HTML、适合内嵌渲染。       <div\nnd-label font-medium whitespace-nowrap shrink-0 text-foreground-subtlest">终端   cd "D:/APP/ZcodeData/.zcode/v2/visualizations/dfc1539c5d65d656cd73d49548d0758639c663a9e451a7e5859eddf217d03334" &amp;&amp; grep -c "Bourdin–Francfort–Marigo" bfm-2000-flow.html test-bfm.html; grep -n "Bourdin" test-bfm.html | head; tail -20 test-bfm.html  <svg xmlns=http://www.w3.org/2000/svg width=24 height=24 viewBox="0 0 24 24" fill=none stroke=currentColor stroke-width=2 stroke-linecap=round stroke-linejoin=round class="lucide lucide-chevron-right size-4 text-foreground-subtlest opacity-0 transition-opacity duration-200 ease-out will-change-transform group-hover/tool-summary:opacity-100 shrink-0 rotate-0" aria-hidden\nest">终端   cd "D:/APP/ZcodeData/.zcode/v2/visualizations/dfc1539c5d65d656cd73d49548d0758639c663a9e451a7e5859eddf217d03334" &amp;&amp; grep -c "Bourdin–Francfort–Marigo" bfm-2000-flow.html test-bfm.html; grep -n "Bourdin" test-bfm.html | head; tail -20 test-bfm.html       <div data-state=clos\n--- v = 1 ---\n class="mt-6 mb-4 text-ui-lg font-semibold" data-streamdown=heading-2>11. 本次记录与下一步 
+ 本次精读的逐段笔记、符号表和 8 条问题已经写入阅读记录，文档里用的是纯文本符号，不会出现 LaTeX 不渲染的问题： 
+ [相场文献阅读进展与问题记录.docx](E:\909 研究\相场文献和程序\参考文献\相场文献阅读进展与问题记录.docx) 
+ 下一次从  §2.1 的公式 (1)–(3)  开始：先看 F(u,v) 为什么要用 +∞ 扩展，再逐项解释 E_c 的两个积分，然后由 E_c 对 v 变分推导一维指数剖面 v = 1 − exp(−|x|/2c)，最后读交替最小化算法和不可逆条件的实现。          *+*:not([data-slot='collapsible-content'])]:mt-5"><div class="flex flex-col ite\n--- Gamma ---\nle=height:0.6833em>  Γ     的位置事先不知道； 
+ p]:my-0 [&amp;>p]:inline" data-streamdown=list-item>位移在       Γ   \Gamma         Γ     两侧可以跳开，普通        W   1  ,  2     W^{1,2}    <span class=katex-ht\ndden=true>    K     对应裂纹       Γ   \Gamma         Γ    ； 
+ p]:my-0 [&amp;>p]:inline" data-streamdown=list-item>图像里的数据项       ∣  u  −  g   ∣  2  </m\n3.org/1998/Math/MathML display=block>    F  c   &nbsp;  Γ  (   L  2   )  -converges&nbsp;to&nbsp;  F  .   F_c\ \Gamma(L^2)\text{-converges to}\ F.          F        \n/strong>：明确记录第 2 节目前是“能讲清思想，但还不能独立推导”，没有把它记为“已掌握”。 
+ 
+ 文档里也把第一篇的状态更新为“精读中：第 2 节（概念已通，推导待补）”。关于       Γ  ⊃   Γ  i    \Gamma\supset\Gamma_i         Γ    ⊃         Γ  <sp\n第 2 节目前是“能讲清思想，但还不能独立推导”，没有把它记为“已掌握”。 
+ 
+ 文档里也把第一篇的状态更新为“精读中：第 2 节（概念已通，推导待补）”。关于       Γ  ⊃   Γ  i    \Gamma\supset\Gamma_i         Γ    ⊃         Γ  <span class="vli\n--- Γ ---\npan class=vlist style=height:0.15em>          ≪        c     在 Γ 收敛中的作用； 
+ p]:my-0 [&amp;>p]:inline" data-streamdown=list-item>交替最小化没有收敛证明，它收敛到什么； 
+ p]:my-0 [&amp;>p]:inline" data-streamdown=list-item>一维剖面       v  =  1  −  exp  ⁡  (  −  ∣  x  ∣  /  2\n。 
+ p]:my-0 [&amp;>p]:inline" data-streamdown=list-item> 学习方式备注 ：明确记录第 2 节目前是“能讲清思想，但还不能独立推导”，没有把它记为“已掌握”。 
+ 
+ 文档里也把第一篇的状态更新为“精读中：第 2 节（概念已通，推导待补）”。关于       Γ  ⊃   Γ  i    \Gamma\supset\Gamma_i         Γ    ⊃     <span class=stru\np]:inline" data-streamdown=list-item> 学习方式备注 ：明确记录第 2 节目前是“能讲清思想，但还不能独立推导”，没有把它记为“已掌握”。 
+ 
+ 文档里也把第一篇的状态更新为“精读中：第 2 节（概念已通，推导待补）”。关于       Γ  ⊃   Γ  i    \Gamma\supset\Gamma_i         Γ    ⊃     <span class=strut style=height:0.8333em;vertical-align:-0.15e\n>  Γ  ⊃   Γ  i    \Gamma\supset\Gamma_i         Γ    ⊃         Γ        <span cl\nass=strut style=height:0.7224em;vertical-align:-0.0391em>  Γ    ⊃         Γ          i     ​               的那

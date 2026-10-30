@@ -1,0 +1,368 @@
+﻿source,target,tgt_lng
+phase field,相场,zh-CN
+phase-field,相场,zh-CN
+phase-field model,相场模型,zh-CN
+phase-field modeling,相场建模,zh-CN
+phase-field modelling,相场建模,zh-CN
+phase-field fracture,相场断裂,zh-CN
+phase-field damage,相场损伤,zh-CN
+phase-field fracture/damage model,相场断裂/损伤模型,zh-CN
+phase-field fracture/damage models,相场断裂/损伤模型,zh-CN
+brittle fracture,脆性断裂,zh-CN
+quasi-brittle fracture,准脆性断裂,zh-CN
+ductile fracture,延性断裂,zh-CN
+cohesive fracture,内聚断裂,zh-CN
+dynamic fracture,动态断裂,zh-CN
+finite deformation fracture,有限变形断裂,zh-CN
+large deformation,大变形,zh-CN
+multi-field fracture,多场断裂,zh-CN
+fracture mechanics,断裂力学,zh-CN
+continuum mechanics,连续介质力学,zh-CN
+solid mechanics,固体力学,zh-CN
+computational mechanics,计算力学,zh-CN
+failure mechanics,失效力学,zh-CN
+continuum damage mechanics,连续介质损伤力学,zh-CN
+Continuum Damage Mechanics (CDM),连续介质损伤力学（CDM）,zh-CN
+linear elastic fracture mechanics,线弹性断裂力学,zh-CN
+Linear Elastic Fracture Mechanics (LEFM),线弹性断裂力学（LEFM）,zh-CN
+cohesive zone model,内聚区模型,zh-CN
+Cohesive Zone Model (CZM),内聚区模型（CZM）,zh-CN
+phase-field regularised cohesive zone model,相场正则化内聚区模型,zh-CN
+phase-field regularized cohesive zone model,相场正则化内聚区模型,zh-CN
+smeared crack model,弥散裂纹模型,zh-CN
+discrete approach,离散方法,zh-CN
+continuous approach,连续方法,zh-CN
+discontinuous approach,非连续方法,zh-CN
+discrete element method,离散元法,zh-CN
+peridynamics,近场动力学,zh-CN
+meshless method,无网格方法,zh-CN
+meshfree method,无网格方法,zh-CN
+multiscale fracture analysis,多尺度断裂分析,zh-CN
+Griffith theory,Griffith理论,zh-CN
+Griffith's theory,Griffith理论,zh-CN
+variational approach,变分方法,zh-CN
+variational fracture,变分断裂,zh-CN
+variational model,变分模型,zh-CN
+variational principle,变分原理,zh-CN
+incremental variational principle,增量变分原理,zh-CN
+energy minimization,能量最小化,zh-CN
+incremental minimization,增量最小化,zh-CN
+Gamma-convergence,Γ收敛,zh-CN
+Γ-convergence,Γ收敛,zh-CN
+Mumford-Shah functional,Mumford–Shah泛函,zh-CN
+Ambrosio-Tortorelli approximation,Ambrosio–Tortorelli逼近,zh-CN
+special functions of bounded variation,有界变差特殊函数,zh-CN
+SBV functions,SBV函数,zh-CN
+Landau-Ginzburg phase transition,Landau–Ginzburg相变,zh-CN
+phase transition,相变,zh-CN
+order parameter,序参量,zh-CN
+crack topology,裂纹拓扑,zh-CN
+sharp crack topology,尖锐裂纹拓扑,zh-CN
+sharp crack,尖锐裂纹,zh-CN
+regularised fracture,正则化断裂,zh-CN
+regularized fracture,正则化断裂,zh-CN
+regularisation,正则化,zh-CN
+regularization,正则化,zh-CN
+diffuse crack,弥散裂纹,zh-CN
+crack surface,裂纹表面,zh-CN
+crack surface density function,裂纹表面密度函数,zh-CN
+crack geometric function,裂纹几何函数,zh-CN
+geometric crack function,裂纹几何函数,zh-CN
+crack length,裂纹长度,zh-CN
+crack opening,裂纹张开,zh-CN
+crack opening displacement,裂纹张开位移,zh-CN
+displacement jump,位移跳跃,zh-CN
+crack tip,裂纹尖端,zh-CN
+crack path,裂纹路径,zh-CN
+crack pattern,裂纹形态,zh-CN
+crack initiation,裂纹起裂,zh-CN
+crack nucleation,裂纹成核,zh-CN
+crack propagation,裂纹扩展,zh-CN
+crack growth,裂纹扩展,zh-CN
+crack branching,裂纹分叉,zh-CN
+crack coalescence,裂纹合并,zh-CN
+crack interaction,裂纹相互作用,zh-CN
+pre-existing crack,预存裂纹,zh-CN
+predefined crack,预定义裂纹,zh-CN
+initial crack,初始裂纹,zh-CN
+notch,缺口,zh-CN
+notched specimen,缺口试样,zh-CN
+fracture process zone,断裂过程区,zh-CN
+process zone,过程区,zh-CN
+localisation band,局部化带,zh-CN
+localization band,局部化带,zh-CN
+strain localization,应变局部化,zh-CN
+strain localisation,应变局部化,zh-CN
+damage localization,损伤局部化,zh-CN
+damage localisation,损伤局部化,zh-CN
+strain softening,应变软化,zh-CN
+softening curve,软化曲线,zh-CN
+mesh dependency,网格依赖性,zh-CN
+mesh sensitivity,网格敏感性,zh-CN
+mesh objectivity,网格客观性,zh-CN
+size effect,尺寸效应,zh-CN
+internal length scale,内部长度尺度,zh-CN
+length scale,长度尺度,zh-CN
+length scale parameter,长度尺度参数,zh-CN
+phase-field length scale,相场长度尺度,zh-CN
+fracture energy,断裂能,zh-CN
+surface energy,表面能,zh-CN
+crack surface energy,裂纹表面能,zh-CN
+energy release rate,能量释放率,zh-CN
+critical energy release rate,临界能量释放率,zh-CN
+fracture toughness,断裂韧度,zh-CN
+stress intensity factor,应力强度因子,zh-CN
+critical stress intensity factor,临界应力强度因子,zh-CN
+energy degradation,能量退化,zh-CN
+energetic degradation function,能量退化函数,zh-CN
+degradation function,退化函数,zh-CN
+coupling function,耦合函数,zh-CN
+crack driving force,裂纹驱动力,zh-CN
+energetic crack driving force,能量型裂纹驱动力,zh-CN
+history field,历史场变量,zh-CN
+history-field approach,历史场方法,zh-CN
+irreversibility,不可逆性,zh-CN
+boundedness,有界性,zh-CN
+crack irreversibility,裂纹不可逆性,zh-CN
+crack phase field,裂纹相场,zh-CN
+crack phase-field,裂纹相场,zh-CN
+damage phase field,损伤相场,zh-CN
+damage phase-field,损伤相场,zh-CN
+damage variable,损伤变量,zh-CN
+phase-field variable,相场变量,zh-CN
+stored energy,储存能,zh-CN
+stored bulk energy,储存体能,zh-CN
+bulk energy,体能,zh-CN
+elastic energy,弹性能,zh-CN
+elastic strain energy,弹性应变能,zh-CN
+free energy,自由能,zh-CN
+total energy functional,总能量泛函,zh-CN
+dissipation function,耗散函数,zh-CN
+energy dissipation,能量耗散,zh-CN
+thermodynamic force,热力学力,zh-CN
+thermodynamic consistency,热力学一致性,zh-CN
+thermodynamically consistent,热力学一致的,zh-CN
+energy imbalance,能量不平衡,zh-CN
+dissipation inequality,耗散不等式,zh-CN
+constitutive law,本构关系,zh-CN
+constitutive equation,本构方程,zh-CN
+internal variable,内部变量,zh-CN
+governing equation,控制方程,zh-CN
+governing balance equation,控制平衡方程,zh-CN
+balance equation,平衡方程,zh-CN
+boundary condition,边界条件,zh-CN
+initial condition,初始条件,zh-CN
+strong form,强形式,zh-CN
+weak form,弱形式,zh-CN
+variational formulation,变分列式,zh-CN
+hybrid formulation,混合列式,zh-CN
+hybrid model,混合模型,zh-CN
+gradient-enhanced damage model,梯度增强损伤模型,zh-CN
+gradient damage model,梯度损伤模型,zh-CN
+non-local damage model,非局部损伤模型,zh-CN
+nonlocal damage model,非局部损伤模型,zh-CN
+non-variational derivation,非变分推导,zh-CN
+isotropic degradation,各向同性退化,zh-CN
+anisotropic degradation,各向异性退化,zh-CN
+isotropic model,各向同性模型,zh-CN
+anisotropic model,各向异性模型,zh-CN
+tension-compression split,拉压分解,zh-CN
+spectral decomposition,谱分解,zh-CN
+volumetric-deviatoric split,体积-偏分解,zh-CN
+positive-negative split,正负分解,zh-CN
+positive strain energy,正应变能,zh-CN
+negative strain energy,负应变能,zh-CN
+principal strain,主应变,zh-CN
+principal stress,主应力,zh-CN
+deviatoric strain,偏应变,zh-CN
+volumetric strain,体积应变,zh-CN
+equivalent strain,等效应变,zh-CN
+elastic strain,弹性应变,zh-CN
+plastic strain,塑性应变,zh-CN
+equivalent plastic strain,等效塑性应变,zh-CN
+Cauchy stress tensor,柯西应力张量,zh-CN
+strain tensor,应变张量,zh-CN
+stress tensor,应力张量,zh-CN
+displacement field,位移场,zh-CN
+strain field,应变场,zh-CN
+stress field,应力场,zh-CN
+acceleration field,加速度场,zh-CN
+linear elastic,线弹性,zh-CN
+elastic solid,弹性固体,zh-CN
+Young's modulus,杨氏模量,zh-CN
+Poisson's ratio,泊松比,zh-CN
+Lamé constants,Lamé常数,zh-CN
+bulk modulus,体积模量,zh-CN
+shear modulus,剪切模量,zh-CN
+mass density,质量密度,zh-CN
+yield surface,屈服面,zh-CN
+yield criterion,屈服准则,zh-CN
+failure criterion,失效准则,zh-CN
+crack initiation criterion,裂纹起裂准则,zh-CN
+crack growth direction criterion,裂纹扩展方向准则,zh-CN
+plasticity-damage coupling,塑性-损伤耦合,zh-CN
+plastic flow,塑性流动,zh-CN
+hardening,硬化,zh-CN
+softening,软化,zh-CN
+void nucleation,孔洞形核,zh-CN
+void growth,孔洞长大,zh-CN
+void coalescence,孔洞聚合,zh-CN
+void volume fraction,孔隙体积分数,zh-CN
+porosity,孔隙率,zh-CN
+surface decohesion,表面脱粘,zh-CN
+cohesive element,内聚单元,zh-CN
+cohesive elements,内聚单元,zh-CN
+remeshing,重新网格划分,zh-CN
+embedding technique,嵌入技术,zh-CN
+extended finite element method,扩展有限元法,zh-CN
+finite element method,有限元法,zh-CN
+finite element analysis,有限元分析,zh-CN
+finite element discretization,有限元离散,zh-CN
+finite element implementation,有限元实现,zh-CN
+finite element approximation,有限元逼近,zh-CN
+finite element mesh,有限元网格,zh-CN
+adaptive finite element,自适应有限元,zh-CN
+adaptive finite element method,自适应有限元法,zh-CN
+adaptive mesh refinement,自适应网格加密,zh-CN
+mesh refinement,网格加密,zh-CN
+mesh coarsening,网格粗化,zh-CN
+element size,单元尺寸,zh-CN
+mesh size,网格尺寸,zh-CN
+quadrature,求积,zh-CN
+Gauss quadrature,Gauss求积,zh-CN
+shape function,形函数,zh-CN
+plane stress,平面应力,zh-CN
+plane strain,平面应变,zh-CN
+plane elasticity,平面弹性,zh-CN
+antiplane shear,反平面剪切,zh-CN
+mode I fracture,I型断裂,zh-CN
+mode II fracture,II型断裂,zh-CN
+mode III fracture,III型断裂,zh-CN
+mixed-mode fracture,混合型断裂,zh-CN
+mixed-mode loading,混合型加载,zh-CN
+quasi-static fracture,准静态断裂,zh-CN
+quasi-static loading,准静态加载,zh-CN
+dynamic loading,动态加载,zh-CN
+implicit dynamics,隐式动力学,zh-CN
+explicit dynamics,显式动力学,zh-CN
+time integration,时间积分,zh-CN
+time discretization,时间离散,zh-CN
+time-discrete evolution problem,时间离散演化问题,zh-CN
+incremental setting,增量设置,zh-CN
+monolithic solver,单体式求解器,zh-CN
+monolithic formulation,单体式列式,zh-CN
+staggered solver,交错式求解器,zh-CN
+staggered formulation,交错式列式,zh-CN
+staggered solution strategy,交错式求解策略,zh-CN
+alternating minimization,交替最小化,zh-CN
+alternating minimisation,交替最小化,zh-CN
+one-pass alternating minimization,单遍交替最小化,zh-CN
+Newton-Raphson method,Newton–Raphson法,zh-CN
+active-set method,活动集法,zh-CN
+penalty method,惩罚法,zh-CN
+solver,求解器,zh-CN
+residual form,残量形式,zh-CN
+tangent matrix,切线矩阵,zh-CN
+consistent tangent,一致切线,zh-CN
+displacement control,位移控制,zh-CN
+displacement-controlled loading,位移控制加载,zh-CN
+force control,力控制,zh-CN
+traction,牵引力,zh-CN
+boundary traction,边界牵引力,zh-CN
+body force,体力,zh-CN
+single-edge notched tension test,单边缺口拉伸试验,zh-CN
+single-edge notched shear test,单边缺口剪切试验,zh-CN
+single-edge notched specimen,单边缺口试样,zh-CN
+three-point bending test,三点弯曲试验,zh-CN
+asymmetrically notched beam,非对称缺口梁,zh-CN
+L-shaped panel,L形板,zh-CN
+compact tension specimen,紧凑拉伸试样,zh-CN
+fiber-reinforced matrix,纤维增强基体,zh-CN
+reinforcement,增强体,zh-CN
+tearing,撕裂,zh-CN
+traction experiment,牵引试验,zh-CN
+elliptic functional,椭圆型泛函,zh-CN
+adaptive finite elements,自适应有限元,zh-CN
+plane elasticity case,平面弹性情形,zh-CN
+initialization,初始化,zh-CN
+parameter adjustment,参数调整,zh-CN
+hydrogen-assisted cracking,氢致开裂,zh-CN
+hydrogen assisted cracking,氢致开裂,zh-CN
+hydrogen-assisted failure,氢致失效,zh-CN
+hydrogen embrittlement,氢脆,zh-CN
+hydrogen diffusion,氢扩散,zh-CN
+stress-assisted hydrogen diffusion,应力辅助氢扩散,zh-CN
+mass transport,质量传输,zh-CN
+transport of dilute species,稀释物种传输,zh-CN
+dilute species,稀释物种,zh-CN
+hydrogen concentration,氢浓度,zh-CN
+lattice hydrogen,晶格氢,zh-CN
+trapped hydrogen,陷阱氢,zh-CN
+chemical potential,化学势,zh-CN
+hydrogen-dependent surface energy degradation,氢致表面能退化,zh-CN
+hydrogenous environment,含氢环境,zh-CN
+corrosion pit,腐蚀坑,zh-CN
+duplex steel,双相钢,zh-CN
+sea water,海水,zh-CN
+cracking threshold,开裂阈值,zh-CN
+threshold stress intensity factor,应力强度因子阈值,zh-CN
+compact tension test,紧凑拉伸试验,zh-CN
+physics-informed deep learning,物理信息深度学习,zh-CN
+physics-informed neural network,物理信息神经网络,zh-CN
+neural network,神经网络,zh-CN
+deep Ritz method,深度Ritz方法,zh-CN
+Ritz method,Ritz方法,zh-CN
+activation function,激活函数,zh-CN
+automatic differentiation,自动微分,zh-CN
+autodifferentiation,自动微分,zh-CN
+gradient computation,梯度计算,zh-CN
+weight regularization,权重正则化,zh-CN
+transfer learning,迁移学习,zh-CN
+optimizer,优化器,zh-CN
+optimization algorithm,优化算法,zh-CN
+training point,训练点,zh-CN
+training data,训练数据,zh-CN
+loss function,损失函数,zh-CN
+network architecture,网络架构,zh-CN
+network size,网络规模,zh-CN
+computational cost,计算成本,zh-CN
+non-dimensionalization,无量纲化,zh-CN
+non-dimensional form,无量纲形式,zh-CN
+FEA computation,有限元分析计算,zh-CN
+independent neural networks,独立神经网络,zh-CN
+ReLU activation function,ReLU激活函数,zh-CN
+Gurson model,Gurson模型,zh-CN
+Gurson-Tvergaard-Needleman model,Gurson–Tvergaard–Needleman模型,zh-CN
+GTN model,GTN模型,zh-CN
+AT1 model,AT1模型,zh-CN
+AT2 model,AT2模型,zh-CN
+Aranson-Kalatsky-Vinokur model,Aranson–Kalatsky–Vinokur模型,zh-CN
+Karma-Kessler-Levine model,Karma–Kessler–Levine模型,zh-CN
+Amor-Marigo-Maurini model,Amor–Marigo–Maurini模型,zh-CN
+CDM,连续介质损伤力学,zh-CN
+CZM,内聚区模型,zh-CN
+FEM,有限元法,zh-CN
+FE,有限元,zh-CN
+GD,梯度损伤模型,zh-CN
+GED,梯度增强损伤模型,zh-CN
+LEFM,线弹性断裂力学,zh-CN
+PD,近场动力学,zh-CN
+PFM,相场断裂/损伤模型,zh-CN
+PF-CZM,相场正则化内聚区模型,zh-CN
+XFEM,扩展有限元法,zh-CN
+GTN,Gurson–Tvergaard–Needleman模型,zh-CN
+CT,紧凑拉伸试样,zh-CN
+SEN,单边缺口,zh-CN
+PINN,物理信息神经网络,zh-CN
+DRM,深度Ritz方法,zh-CN
+NN,神经网络,zh-CN
+PDE,偏微分方程,zh-CN
+FEA,有限元分析,zh-CN
+L-BFGS,L-BFGS优化算法,zh-CN
+Rprop,Rprop优化算法,zh-CN
+ReLU,ReLU激活函数,zh-CN
+AT1,AT1模型,zh-CN
+AT2,AT2模型,zh-CN
+Mode I,I型,zh-CN
+Mode II,II型,zh-CN
+Mode III,III型,zh-CN
